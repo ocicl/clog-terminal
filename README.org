@@ -1,0 +1,9 @@
+* clog-terminal
+
+CLOG-Terminal plug-in for jQueryTerminal
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/rabbibotton/clog-terminal.git |
+| commit  | b152eda                                              |
+| systems | clog-terminal                                        |
+|---------+------------------------------------------------------|
