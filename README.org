@@ -4,6 +4,6 @@ CLOG-Terminal plug-in for jQueryTerminal
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/rabbibotton/clog-terminal.git |
-| commit  | b152eda                                              |
+| commit  | 6b3892c                                              |
 | systems | clog-terminal                                        |
 |---------+------------------------------------------------------|
