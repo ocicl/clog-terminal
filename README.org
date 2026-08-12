@@ -7,4 +7,4 @@ CLOG-Terminal plug-in for jQueryTerminal
 | commit  | 304e330                                              |
 | systems | clog-terminal                                        |
 |---------+------------------------------------------------------|
- 
+  
